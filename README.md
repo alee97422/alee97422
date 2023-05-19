@@ -27,7 +27,7 @@ Project 2 is a Notation app with electron.js and also making a version in python
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](https://github.com/alee97422/Doc-proj)
 <br>   
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj/blob/main/therap%20proj/python%20version/second_page.py)
 
 - [Project 2](https://github.com/your-username/project-2)
 
