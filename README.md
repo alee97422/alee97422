@@ -35,7 +35,7 @@ Project 2 is a Notation app with electron.js and also making a version in python
 <!-- Contact -->
 ## Let's Connect
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/anthony-lee97422-)
+- LinkedIn: [![Your Name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lee97422-)
 - Email: [alee97422@gmail.com]
 
 <!-- Footer -->
