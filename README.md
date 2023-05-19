@@ -9,7 +9,7 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 
 <!-- Projects -->
 ## Featured Projects
-###These are some of my featured projects that I am working on for some people i know:
+These are some of my featured projects that I am working on for some people i know:
  
 Project 1 is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
 in order to resolve this I made an app that allows for uploading csv file, basic data analysis, formatting columns to an acceptable data type ( float, INT, or string),
