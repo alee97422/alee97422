@@ -8,10 +8,11 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 <!-- language badges --!>
 
 <!-- Projects -->
-## Featured Projects
+# Featured Projects
 These are some of my featured projects that I am working on for some people i know:
  
-Project 1 is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
+## Project 1
+is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
 in order to resolve this I made an app that allows for uploading csv file, basic data analysis, formatting columns to an acceptable data type ( float, INT, or string),
 and to save this updated file as a new csv or an xlsx sheet
 <br>
@@ -20,7 +21,9 @@ and to save this updated file as a new csv or an xlsx sheet
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alee97422/csv-to-excell)
 
 <br>
-Project 2 is a Notation app with electron.js and also making a version in python so both of these code bases will be here.
+
+## Project 2 
+This project is a Notation app with electron.js and also making a version in python so both of these code bases will be here.
 <br>
 <br>
 
@@ -29,7 +32,19 @@ Project 2 is a Notation app with electron.js and also making a version in python
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj/blob/main/therap%20proj/python%20version/second_page.py)
 
-- [Project 2](https://github.com/your-username/project-2)
+![Project 2](https://github.com/your-username/project-2)
+
+## Project 3
+This project is a NSFW dice game that I am not going to ever finish this repository as I plan to develop this in every language possible. 
+<br>
+This was my first program I ever wrote. I wrote in python and it took me 3 hours to write it and the first time I ran it, it picked the same player 2 times in one roll!
+<br>
+But it sparked my interest in the programming world.
+
+
+
+
+
 
 
 <!-- Contact -->
