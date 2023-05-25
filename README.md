@@ -41,7 +41,9 @@ This was my first program I ever wrote. I wrote in python and it took me 3 hours
 <br>
 But it sparked my interest in the programming world.
 
-
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/dice-game1/blob/main/pydice.py)
+[![tkinter](https://img.shields.io/badge/TKINTER-version-cyan)](https://github.com/alee97422/dice-game1/blob/main/tkinter-version/tkinterversion.py)
+[![kivy](https://img.shields.io/badge/KIVY-version-red)](https://github.com/alee97422/dice-game1/blob/main/kivy-version/from%20kivy.py) 
 
 
 
