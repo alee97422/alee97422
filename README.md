@@ -44,8 +44,8 @@ But it sparked my interest in the programming world.
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/dice-game1/blob/main/pydice.py)
 [![tkinter](https://img.shields.io/badge/TKINTER-version-cyan)](https://github.com/alee97422/dice-game1/blob/main/tkinter-version/tkinterversion.py)
 [![kivy](https://img.shields.io/badge/KIVY-version-red)](https://github.com/alee97422/dice-game1/blob/main/kivy-version/from%20kivy.py) 
-
-
+[![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/alee97422/dice-game1/tree/main/Flutter-version)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/alee97422/dice-game1/blob/main/HTML%2C%20CSS%2C%20JAVASCRIPT/Untitled-1.html)
 
 
 
