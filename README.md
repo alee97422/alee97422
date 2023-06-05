@@ -19,6 +19,13 @@ and to save this updated file as a new csv or an xlsx sheet
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/csv-to-excell)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alee97422/csv-to-excell)
 
+![picture](csv1.png)
+![picture](csv2.png)
+![picture](csv3.png)
+![picture](csv4.png)
+
+
+
 
 
 ## Project 2 
@@ -27,6 +34,13 @@ This project is a Notation app with electron.js and also making a version in pyt
 
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](https://github.com/alee97422/Doc-proj)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj/blob/main/therap%20proj/python%20version/second_page.py)
+
+![picture](page1.png)
+<br>
+<br>
+![picture](page2.png)
+
+
 
 ![Project 2](https://github.com/your-username/project-2)
 
