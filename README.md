@@ -10,8 +10,14 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 <!-- Projects -->
 # Featured Projects
 These are some of my featured projects that I am working on for some people i know:
- 
-## Project 1
+
+## Commission Dashboard
+this is a streamlit commission dashboard I did for my current job. This has been a fun project and some of my first professional experience as a Data Analyst. This takes csv files and reads them into a database(SQLITE3 embedded database) where I used online SQL queries to populate the dataframe used to computate each employees commission along with other useful data.
+
+
+
+
+## Project 2
 This is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
 in order to resolve this I made an app that allows for uploading csv file, basic data analysis, formatting columns to an acceptable data type ( float, INT, or string),
 and to save this updated file as a new csv or an xlsx sheet
@@ -28,7 +34,7 @@ and to save this updated file as a new csv or an xlsx sheet
 
 
 
-## Project 2 
+## Project 3
 This project is a Notation app with electron.js and also making a version in python so both of these code bases will be here.
 
 
@@ -44,7 +50,7 @@ This project is a Notation app with electron.js and also making a version in pyt
 
 ![Project 2](https://github.com/your-username/project-2)
 
-## Project 3
+## Project 4
 This project is a NSFW dice game that I am not going to ever finish this repository as I plan to develop this in every language possible. 
 <br>
 This was my first program I ever wrote. I wrote in python and it took me 3 hours to write it and the first time I ran it, it picked the same player 2 times in one roll!
