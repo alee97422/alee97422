@@ -16,7 +16,6 @@ this is a streamlit commission dashboard I did for my current job. This has been
 
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](
 https://github.com/alee97422/commission_dashboard)
-
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/commission_dashboard)
 
 ## Project 2
