@@ -17,7 +17,7 @@ this is a streamlit commission dashboard I did for my current job. This has been
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](
 https://github.com/alee97422/commission_dashboard)
 
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/csv-to-excell)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/commission_dashboard)
 
 ## Project 2
 This is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
