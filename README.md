@@ -14,8 +14,10 @@ These are some of my featured projects that I am working on for some people i kn
 ## Commission Dashboard
 this is a streamlit commission dashboard I did for my current job. This has been a fun project and some of my first professional experience as a Data Analyst. This takes csv files and reads them into a database(SQLITE3 embedded database) where I used online SQL queries to populate the dataframe used to computate each employees commission along with other useful data.
 
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](
 
 
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/csv-to-excell)
 
 ## Project 2
 This is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
