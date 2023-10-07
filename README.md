@@ -50,10 +50,8 @@ This project is a Notation app with electron.js and also making a version in pyt
 
 
 
-![Project 2](https://github.com/your-username/project-2)
-
 ## Project 4
-This project is a NSFW dice game that I am not going to ever finish this repository as I plan to develop this in every language possible. 
+This project is a dice game that I am not going to ever finish this repository as I plan to develop this in every language possible. 
 <br>
 This was my first program I ever wrote. I wrote in python and it took me 3 hours to write it and the first time I ran it, it picked the same player 2 times in one roll!
 <br>
