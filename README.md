@@ -39,7 +39,7 @@ and to save this updated file as a new csv or an xlsx sheet
 
 
 ## Project 3
-This project is a Notation app with python so both of these code bases will be here.
+This project is a Notation app with python.
 
 
 
