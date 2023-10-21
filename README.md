@@ -45,12 +45,6 @@ This project is a Notation app with electron.js and also making a version in pyt
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj)
 
-![picture](page1.png)
-<br>
-<br>
-![picture](page2.png)
-
-
 
 ## Project 4
 This project is a dice game that I am not going to ever finish this repository as I plan to develop this in every language possible. 
