@@ -1,10 +1,14 @@
 # Hi there! 👋
 
-I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. I am looking for my first chance to get some professional experience!
+I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. 
 
 <!-- Badges -->
 [![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lee97422-/)
 
+
+
+<!-- GitHub Contributions -->
+[![alee97422's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alee97422&theme=react-dark)](https://github.com/alee97422)
 <!-- language badges --!>
 
 <!-- Projects -->
@@ -28,9 +32,7 @@ and to save this updated file as a new csv or an xlsx sheet
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alee97422/csv-to-excell)
 
 ![picture](csv1.png)
-![picture](csv2.png)
-![picture](csv3.png)
-![picture](csv4.png)
+
 
 
 
@@ -40,8 +42,8 @@ and to save this updated file as a new csv or an xlsx sheet
 This project is a Notation app with electron.js and also making a version in python so both of these code bases will be here.
 
 
-[![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](https://github.com/alee97422/Doc-proj)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj/blob/main/therap%20proj/python%20version/second_page.py)
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj)
 
 ![picture](page1.png)
 <br>
