@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. 
+I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. Join me on my journey to explore the world of technology. I am always working on these projects in my free time!
 
 <!-- Badges -->
 [![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lee97422-/)
