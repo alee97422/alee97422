@@ -14,8 +14,27 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 <!-- Projects -->
 # Featured Projects
 These are some of my featured projects that I am working on for some people i know:
+## CLI_roku_remote (project 1)
+The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
 
-## Commission Dashboard
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
+
+
+## Python for Everything Repo && EDA daily repos ( project 2)
+
+Python is good for so many things. If not everything right!! well sometimes you need it for a specific task and thats what this repo is about a central location for boilerplate that has actually worked for me for specific one off tasks such as media conversions, Document conversions, sping up a tkinter window in minutes, and certain web applications. I would like to add some more organization to this repo as it will likely get out of control quite fast.
+
+I am including my EDA daily repo to this section as i do try to upload on a regular basis even if its not "everyday". This repo is a pathway for me to track some of my skills and interests in my journey of data analysis and data science.
+
+-Python for everything
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]([https://github.com/alee97422/commission_dashboard](https://github.com/alee97422/pythonforeverythingrepo))
+
+-Eda daily 
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]([https://github.com/alee97422/commission_dashboard]((https://github.com/alee97422/EDA_daily-)))
+
+## Commission Dashboard (project 3)
 this is a streamlit commission dashboard I did for my current job. This has been a fun project and some of my first professional experience as a Data Analyst. This takes csv files and reads them into a database(SQLITE3 embedded database) where I used online SQL queries to populate the dataframe used to computate each employees commission along with other useful data.
 
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](
@@ -23,32 +42,8 @@ https://github.com/alee97422/commission_dashboard)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/commission_dashboard)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/commission_dashboard)
 
-## Project 2
-This is a tool a built for a friend where they were having an issue with a column value always trunicating due to excel formatting issues.
-in order to resolve this I made an app that allows for uploading csv file, basic data analysis, formatting columns to an acceptable data type ( float, INT, or string),
-and to save this updated file as a new csv or an xlsx sheet
-<br>
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/csv-to-excell)
-[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alee97422/csv-to-excell)
 
-![picture](csv1.png)
-
-
-
-
-
-
-## Project 3
-This project is a Notation app with python.
-
-
-
-
-
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/Doc-proj)
-
-
-## Project 4
+## Dice game in every language (Project 4)
 This project is a dice game that I am not going to ever finish this repository as I plan to develop this in every language possible. 
 <br>
 This was my first program I ever wrote. I wrote in python and it took me 3 hours to write it and the first time I ran it, it picked the same player 2 times in one roll!
