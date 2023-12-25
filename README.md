@@ -18,9 +18,9 @@ These are some of my featured projects that I am working on for some people i kn
 The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
 
 [![Pithon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
-[![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)(
+[![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)](https://github.com/alee97422/CLI_roku_remote)
 
-<!--Shell on the border flag:  FLAG{RkxBR3tjb21taXRzX1JfdGhlX25ld19DVn0=} -->
+
 
 ## Python for Everything Repo && EDA daily repos ( project 2)
 
