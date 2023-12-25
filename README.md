@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 
 
 I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. Join me on my journey to explore the world of technology. I am always working on these projects in my free time!
 
@@ -17,7 +17,7 @@ These are some of my featured projects that I am working on for some people i kn
 ## CLI_roku_remote (project 1)
 The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
+[![Pithon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
 
 
 ## Python for Everything Repo && EDA daily repos ( project 2)
