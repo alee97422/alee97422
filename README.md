@@ -18,7 +18,9 @@ These are some of my featured projects that I am working on for some people i kn
 The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
 
 [![Pithon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
+[![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)(
 
+<!--Shell on the border flag:  FLAG{RkxBR3tjb21taXRzX1JfdGhlX25ld19DVn0=} -->
 
 ## Python for Everything Repo && EDA daily repos ( project 2)
 
@@ -67,6 +69,7 @@ But it sparked my interest in the programming world.
 <!-- Footer -->
 This journey of becoming involved in software has been a challenging and rewarding journey thus far!! I really do have a deep seated passion for electronics and technology and how these things are come together and how they are made. 
 I love they idea that technology is an ever changing field that can be challenging to keep up with sometimes. This pushes me and will remain to be my motivation to continue working until I am in a better position.
+
 I love doing what i love to do because it is what will always make the people who love me proud!
 
 
