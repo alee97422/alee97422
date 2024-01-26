@@ -55,7 +55,9 @@ https://github.com/alee97422/commission_dashboard)
 - Email: [alee97422@gmail.com]
 
 <!-- Footer -->
-This journey of becoming involved in software has been a challenging and rewarding journey thus far!! I really do have a deep seated passion for electronics and technology and how these things are come together and how they are made. 
+This journey of becoming involved in software has been a challenging and rewarding journey thus far!! I really do have a deep seated passion for electronics and technology and how these things come together and how they are made. 
+
+
 I love they idea that technology is an ever changing field that can be challenging to keep up with sometimes. This pushes me and will remain to be my motivation to continue working until I am in a better position.
 
 I love doing what i love to do because it is what will always make the people who love me proud!
