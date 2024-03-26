@@ -19,7 +19,15 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 
 <!-- Projects -->
 # Featured Projects
-These are some of my featured projects that I am working on for some people i know:
+These are some of my featured projects that I am working on:
+
+
+## PCB designs and hardware files
+
+BADGELIFE has become my newest obsession both designing cusotmer PCBs and SAOs to writing firmware animations! 
+This a central housing location for all of the PCBs I have Designed.
+
+
 ## CLI_roku_remote 
 The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
 
@@ -49,8 +57,6 @@ https://github.com/alee97422/commission_dashboard)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/commission_dashboard)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/commission_dashboard)
 
-
-## PCB designs and hardware files
 
 
 
