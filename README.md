@@ -3,6 +3,12 @@
 I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. Join me on my journey to explore the world of technology. I am always working on these projects in my free time!
 
 <!-- Badges -->
+# connect
+
+ Dockerhub
+[![Dockerhub](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/alee97422)
+<br>
+ LinkedIn
 [![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lee97422-/)
 
 
@@ -17,7 +23,7 @@ These are some of my featured projects that I am working on for some people i kn
 ## CLI_roku_remote 
 The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
 
-[![Pithon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/CLI_roku_remote)
 
 
 ## Python for Everything Repo && EDA daily repos 
