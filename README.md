@@ -24,7 +24,7 @@ These are some of my featured projects that I am working on:
 
 ## PCB designs and hardware files
 
-BADGELIFE has become my newest obsession both designing cusotmer PCBs and SAOs to writing firmware animations! 
+BADGELIFE has become my newest obsession both designing custom PCBs and SAOs to writing firmware animations! 
 This a central housing location for all of the PCBs I have Designed.
 
 
