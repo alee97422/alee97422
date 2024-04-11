@@ -6,9 +6,15 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 # connect
 
  Dockerhub
+ 
 [![Dockerhub](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/alee97422)
+
+some fun stuff going on here too ^
 <br>
+
  LinkedIn
+
+ 
 [![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lee97422-/)
 
 
