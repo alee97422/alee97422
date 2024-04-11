@@ -32,7 +32,7 @@ These are some of my featured projects that I am working on:
 
 BADGELIFE has become my newest obsession both designing custom PCBs and SAOs to writing firmware animations! 
 This a central housing location for all of the PCBs I have Designed.
-
+[![alee97422](https://img.shields.io/badge/EasyEDA-1765F6.svg?style=for-the-badge&logo=EasyEDA&logoColor=white)](https://github.com/alee97422/PCBs_)
 
 ## CLI_roku_remote 
 The roku app is great but can be kinda sluggish and glitchy so with the power of pythons rokue library and some handy dandy programming I have created a wicked fast CLI version of the remote leveraging the IP addresses and the application indexing in order also be able to launch apps just by calling them VIA user input.
