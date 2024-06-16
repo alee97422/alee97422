@@ -3,7 +3,10 @@
 I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. Join me on my journey to explore the world of technology. I am always working on these projects in my free time!
 
 <!-- Badges -->
-# connect
+# Lets Connect!
+Download Resume from Google Drive 
+
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cOdNJG7RPRGEFJotXHltvaLV_uW_u2Mm/view?usp=sharing)
 
  Dockerhub
  
