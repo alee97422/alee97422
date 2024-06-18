@@ -64,17 +64,7 @@ this is a streamlit commission dashboard I did for my current job. This has been
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](
 https://github.com/alee97422/commission_dashboard)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/alee97422/commission_dashboard)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/commission_dashboard)
-
-
-
-
-<!-- Contact -->
-## Let's Connect
-
-- LinkedIn: [![Your Name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lee97422-)
-- Email: [alee97422@gmail.com]
-
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/alee97422/commission_dashboard.git)
 <!-- Footer -->
 This journey of becoming involved in software has been a challenging and rewarding journey thus far!! I really do have a deep seated passion for electronics and technology and how these things come together and how they are made. 
 
