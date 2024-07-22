@@ -1,5 +1,5 @@
 # Hi there! 👋 
-#take my my money's ;)
+#take my my money 
 I'm Anthony Lee, a passionate software developer from Arkansas, US. I love working on Data Analytics problems. Join me on my journey to explore the world of technology. I am always working on these projects in my free time!
 
 <!-- Badges -->
