@@ -6,7 +6,7 @@ I'm Anthony Lee, a passionate software developer from Arkansas, US. I love worki
 # Lets Connect!
 Download Resume from Google Drive 
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cOdNJG7RPRGEFJotXHltvaLV_uW_u2Mm/view?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xaL1H4PEWXHRNy_WfzvP4bRFUJ8ctU3U?usp=drive_link)
 
  Dockerhub
  
