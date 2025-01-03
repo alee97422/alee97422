@@ -2,11 +2,7 @@
 
 I'm Anthony Lee, a passionate PCB designer and software developer from Arkansas, US. I love designing Printed circuit boards and solving cybersecurity data problems. Join me on my journey to explore the world of technology. I am always working on these projects below in my free time!
 
-<!-- Badges -->
-# Lets Connect!
-Download Resume from Google Drive 
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xaL1H4PEWXHRNy_WfzvP4bRFUJ8ctU3U?usp=drive_link)
 
  Dockerhub
  
